@@ -1,2 +1,2 @@
 # JavaChessGUI
-*******In-Progress********
+
